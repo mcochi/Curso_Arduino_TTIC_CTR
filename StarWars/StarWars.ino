@@ -42,10 +42,10 @@
          |            [ ] [ ] [ ]              |
          |  UNO_R3    GND MOSI 5V  ____________/
           \_______________________/
-  NOTAS:
+  NTAS:
   
    - Cátodo(-) de LED_1 y LED_2 a GND (pata corta) a través de una R=220 omhs (difrente para cada LED).
-   - Zumbador(-) a GND.
+   - Zumbador(-) a GND. @marcos
 */
   
   
