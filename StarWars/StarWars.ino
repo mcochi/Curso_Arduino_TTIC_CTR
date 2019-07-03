@@ -81,7 +81,7 @@
     pinMode(LED_1, OUTPUT); // Pin digital 12 como salida
     pinMode(LED_2, OUTPUT); // Pin digital 13 como salida
   }
-   
+  //Te hago un cambio aquí porque me da la gana
   void loop()
   { 
     // Suena la primera sección
